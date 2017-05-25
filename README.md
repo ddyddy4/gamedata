@@ -1,0 +1,2 @@
+# gamedata
+my ez game
